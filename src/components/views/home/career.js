@@ -291,7 +291,7 @@ function Career() {
                 <div className="container-lg">
                     <div className='crDreamerWrapper bg-white shadow'>
                         <div className="heading">
-                            <h3 className="mb-0 text-texture">Star Estate Welcome Dreamer</h3>
+                            <h3 className="mb-0 text-texture">Star Estate Welcome Dreamers To</h3>
                         </div>
                         <div className='swiper crDreamer-slider'>
                             <div className='swiper-wrapper'>

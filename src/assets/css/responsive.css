@@ -146,7 +146,7 @@
   .whyUsBox .imgBox::before{border-top: 0;}
   .career-section1 img{height: 350px; object-fit: cover;}
   .career-section2.bg-image{background-position: 12% center;}
-  .crDreamerWrapper{margin: 10rem 0; font-size: 1rem;}
+  .crDreamerWrapper{margin: 10rem 0; font-size: 1rem; min-height: auto;}
   .career-serviceBox .heading{margin-left: auto; margin-right: auto;}
   .career-serviceBox{width: calc(100% - .5rem); text-align: justify; text-align-last: center;}
 
