@@ -451,6 +451,10 @@ select::-ms-expand {
   gap: 1rem;
 }
 
+.heading-container img{
+  width: 40px;
+}
+
 .heading {
   display: table;
   margin-bottom: 20px;

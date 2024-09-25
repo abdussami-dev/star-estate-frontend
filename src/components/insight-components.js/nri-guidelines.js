@@ -370,7 +370,7 @@ function NriGuidelines() {
 
 
                         </p><p className='mb-4'>Email Id: info@starestate.in</p>
-                        <p className='mb-4'>Phone: 98 xxx xxx xx</p><div className="form--section"></div></div>
+                        <p className='mb-4'>Phone: <a href='tel:07088470884'>+91 7088470884</a></p><div className="form--section"></div></div>
 
                 </div>
             </div>
